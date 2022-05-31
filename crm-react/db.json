@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mario",
+      "empresa": "studios muse",
+      "email": "correo@correo.com",
+      "telefono": "03514582354",
+      "notas": "hola a todos",
+      "id": 1
+    },
+    {
+      "nombre": "Andrea",
+      "empresa": "one full",
+      "email": "correo@correo.com",
+      "telefono": "03514582354",
+      "notas": "gran empresa",
+      "id": 2
+    }
+  ]
+}
